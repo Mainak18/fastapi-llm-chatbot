@@ -2,8 +2,7 @@
 ## LLM-Powered Chatbot with FastAPI & PostgreSQL
 
 **Project:** FastAPI + LLM Chatbot Challenge  
-**Author:** Mainak Bhattacharjee
-
+**Author:** Mainak Bhattacharjee  
 **Version:** 1.0  
 **Date:** April 2026
 
