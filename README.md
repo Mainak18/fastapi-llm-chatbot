@@ -451,7 +451,7 @@ Detailed architectural documentation is available in the `docs/` folder:
 
 ## 👤 Author
 
-**Mainak**  
+**Mainak Bhattacharjee**  
 Built for the **Superteams.ai FastAPI + LLM Chatbot Challenge** (April 2026)  
 GitHub: [@Mainak18](https://github.com/Mainak18)
 
